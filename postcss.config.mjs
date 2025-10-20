@@ -2,7 +2,7 @@
 const config = {
   plugins: {
     // This is the line that has changed
-    "@tailwindcss/postcss": {},
+    tailwindcss: {},
     autoprefixer: {},
   },
 };
